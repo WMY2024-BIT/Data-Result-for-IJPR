@@ -1,2 +1,2 @@
-# Data-Reult-for-IJPR
-This is the Data&amp;Reult for IJPR
+# Data-Result-for-IJPR
+This is the Data&amp;Result for IJPR
